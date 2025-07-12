@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MetricG
+- 👋 Hi, I’m @Georgennd
 - 👀 I’m interested in Mobile Android Development Using C# .Net Xamarin (MAUI), .Net C# Desktop Programs, PHP Web Systems.
 - 🌱 I’m currently learning Quite a lot but Mainly Node.js, Reactjs, 
 - 📫 How to reach me ? : email georgennd@gmail.com or call +265993438181
